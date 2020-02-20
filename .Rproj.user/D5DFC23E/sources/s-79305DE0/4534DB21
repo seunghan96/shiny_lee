@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582179648490.000,
+    "dirty" : false,
+    "encoding" : "CP949",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4534DB21",
+    "lastKnownWriteTime" : 1582179684,
+    "last_content_update" : 1582179684923,
+    "path" : "~/shiny_session/source_code.R",
+    "project_path" : "source_code.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
